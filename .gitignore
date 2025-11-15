@@ -1,0 +1,25 @@
+# Ignore all PDF files
+*.pdf
+
+# Ignore the dataset files
+# *.xls
+*.csv
+
+# Ignore the saved model file
+*.joblib
+
+# Ignore Python virtual environments
+/venv/
+/.venv/
+/env/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore VS Code settings
+.vscode/
